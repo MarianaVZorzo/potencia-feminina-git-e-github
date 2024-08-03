@@ -2,6 +2,17 @@
 
 Nesta aula estamos aprendendo comandos bem legais e úteis.
 
-### Nota 1
+### git status
+**Verificar o status dos arquivos e pastas dentro do nosso repositório**
 
-### Nota 2
+### git add
+
+### git add .
+**adiciona todos os arquivos para a esteira de commit**
+
+### git add [caminho do arquivo]
+**adiciona um caminho em específico**
+
+### git commit
+
+

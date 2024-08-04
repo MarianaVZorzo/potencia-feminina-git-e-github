@@ -1,2 +1,0 @@
-### Criando uma nova branch pelo terminal
-
